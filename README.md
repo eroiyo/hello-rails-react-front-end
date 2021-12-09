@@ -43,10 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🤝 Contributing
 
-Original design idea by Nelson Sakwa there is he's [Behance](https://www.behance.net/sakwadesignstudio), Thanks to she we have this amazing layout, please go to he's site and give some love to he's works!
-
 Contributions, issues, and feature requests are welcome!
-
 
 ## Authors
 
