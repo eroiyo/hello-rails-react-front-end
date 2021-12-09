@@ -1,6 +1,6 @@
-# React Shop App
+# Hello Rails React -Frontend
 
-This project have been developed using react and redux, to practice with router nad
+This project have been created to test a project with 2 different repositories
 
 
 ## Backend of the project
