@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getGreeting } from '../../apiCall';
+import getGreeting from '../../apiCall';
 import { SetSalute } from '../../redux/reducers/salute';
 
 const Hello = (() => {

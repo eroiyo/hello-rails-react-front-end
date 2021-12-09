@@ -3,7 +3,7 @@ import thunk from 'redux-thunk';
 import salute from './reducers/salute';
 
 const reducer = combineReducers({
-  salute
+  salute,
 });
 
 const store = createStore(
