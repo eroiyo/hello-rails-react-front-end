@@ -3,14 +3,9 @@
 This project have been developed using react and redux, to practice with router nad
 
 
-## Live demostration
+## Backend of the project
 
-- Here is a short [Video Demostration](https://www.loom.com/share/05fbe43aef324dc1986c1d4d7565fec1)
-
-
-## Live demostration
-
-- If you want to visit the live demo, you can click [here](https://fakeshop-app.netlify.app/)
+- If you want to visit the backend repository of the project, you can click [here](https://github.com/eroiyo/hello-rails-back-end/)
 ## Languages and tools
 
 - HTML
@@ -64,13 +59,7 @@ Contributions, issues, and feature requests are welcome!
 
 Microverse
 
-Nelson Sakwa
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/") licensed.
 
